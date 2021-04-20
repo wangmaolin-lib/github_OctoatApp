@@ -1,0 +1,13 @@
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.exe
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.deps.json
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.runtimeconfig.json
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.runtimeconfig.dev.json
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.dll
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\bin\Debug\netcoreapp3.1\OctoatApp.pdb
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.csprojAssemblyReference.cache
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.AssemblyInfoInputs.cache
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.AssemblyInfo.cs
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.csproj.CoreCompileInputs.cache
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.dll
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.pdb
+C:\wml\code\github_OctoatApp\OctoatApp\OctoatApp\obj\Debug\netcoreapp3.1\OctoatApp.genruntimeconfig.cache

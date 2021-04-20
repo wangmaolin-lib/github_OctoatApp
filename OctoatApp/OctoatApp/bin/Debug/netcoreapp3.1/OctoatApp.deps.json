@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OctoatApp/1.0.3": {
+        "runtime": {
+          "OctoatApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OctoatApp/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
